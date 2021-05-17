@@ -1,0 +1,93 @@
+.block-parent-box{
+
+    background-color: blue;
+}
+.flex1{
+    background-color: crimson;
+    height: 100px;
+    margin-top: 12px;
+}
+.flex2{
+    background-color: yellow;
+    height: 150px;
+    margin-top: 12px;
+}
+.flex3{
+    background-color: green;
+    height: 200px;
+    margin-top: 12px;
+}
+.inline-parent-box{
+    margin-top: 10px;
+    background-color: blue;
+}
+.flex4{
+    background-color: crimson;
+    height: 100px;
+    margin-top: 12px;
+}
+.flex5{
+    background-color: yellow;
+    height: 150px;
+    margin-top: 12px;
+}
+.flex6{
+    background-color: green;
+    height: 200px;
+    margin-top: 12px;
+}
+.inlineblock{
+    margin-top: 20px;
+    background-color: blue;
+ 
+}
+.flex7{
+    background-color: crimson;
+    height: 100px;
+    margin-top: 12px;
+    display: inline-block;
+    width: 70px;
+}
+.flex8{
+    background-color: yellow;
+    height: 100px;
+    margin-top: 12px;
+    display: inline-block;
+    width: 70px;
+}
+.flex9{
+    background-color: green;
+    height: 100px;
+    margin-top: 12px;
+    display: inline-block;
+    width: 70px;
+}
+.flexbox{
+    margin-top: 20px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    
+ 
+}
+.flex10{
+    background-color: crimson;
+   
+    
+    align-self: center;
+   
+}
+.flex11{
+    background-color: yellow;
+   
+    
+  
+   
+}
+.flex12{
+    background-color: green;
+    
+    
+   
+   
+}
